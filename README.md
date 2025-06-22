@@ -45,13 +45,13 @@ The system helps investors build a personalized stock portfolio by:
 
 ## 📷 Example Output
 
-![Volatility Chart Example](<img width="987" alt="Image" src="https://github.com/user-attachments/assets/d2bc50ca-54ce-4841-b1cf-f95b748ae7d2" />)
+![Volatility Chart Example](NVDA_Volatility.png)
 > Visualization of predicted vs. historical volatility.
 
-![Portfolio Allocation Pie](<img width="678" alt="Image" src="https://github.com/user-attachments/assets/dd934d89-45d9-40db-a721-3a602b56ac85" />)
+![Portfolio Allocation Pie](pie_chart.png)
 > Portfolio allocation based on calculated risk-adjusted scores.
 
-![Portfolio Backtesting](<img width="1188" alt="Image" src="https://github.com/user-attachments/assets/9abc5371-a98a-4f96-93c9-0fba468f128c" />)
+![Portfolio Backtesting](backtesting.png)
 > Portfolio Backtesting vs Benchmarks
 
 ---
